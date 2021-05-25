@@ -1,2 +1,3 @@
-# osw
-for osw lab
+# My Testris
+2021012345 김도원   
+오픈소스 SW 과제중심수업 결과물 
